@@ -50,3 +50,18 @@ p {
 footer.page-footer {
     margin: 0;
 }
+
+nav li a:hover{
+      background: red;
+    }
+
+@font-face {
+  font-family: Courgatte;
+  src: url(/fonts/Courgette/Courgetter.ttf) format('ttf');
+}
+
+@font-face {
+  font-family: GloriaHallelujah;
+  src: 
+       url(/fonts/Gloria_Hallelujah/GloriaHallelujah.ttf) format('ttf');
+}
